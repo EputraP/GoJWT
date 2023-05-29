@@ -1,0 +1,6 @@
+- GORM
+- GIN
+- Bcrypt (go get -u golang.org/x/crypto/bcrypt)
+- jwt-go (go get -u github.com/golang-jwt/jwt/v5)
+- godotenv (go get -u github.com/joho/godotenv)
+- compile daemon ( go get -u github.com/joho/godotenv)
